@@ -1,1 +1,1 @@
-my first readme
+just getting started with alx
